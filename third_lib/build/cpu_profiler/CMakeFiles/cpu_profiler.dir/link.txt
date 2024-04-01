@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,--no-as-needed -lprofiler -Wl,--as-needed CMakeFiles/cpu_profiler.dir/main.cpp.o  -o cpu_profiler   -L/home/coder/workspace/github_code/gperftools_demo/third_lib/gperftools/lib/lib  -Wl,-rpath,/home/coder/workspace/github_code/gperftools_demo/third_lib/gperftools/lib/lib -lprofiler 

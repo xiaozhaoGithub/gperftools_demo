@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../third_lib/gperftools/include/gperftools/heap-checker.h
+sys/types.h
+-
+stdint.h
+-
+stdarg.h
+-
+vector
+-
+
+/home/coder/workspace/github_code/gperftools_demo/heap_checker/main.cpp
+iostream
+-
+assert.h
+-
+gperftools/heap-checker.h
+/home/coder/workspace/github_code/gperftools_demo/heap_checker/gperftools/heap-checker.h
+

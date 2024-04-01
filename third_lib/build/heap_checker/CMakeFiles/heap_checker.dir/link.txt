@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/heap_checker.dir/main.cpp.o  -o heap_checker   -L/home/coder/workspace/github_code/gperftools_demo/third_lib/gperftools/lib/lib  -Wl,-rpath,/home/coder/workspace/github_code/gperftools_demo/third_lib/gperftools/lib/lib -ltcmalloc 

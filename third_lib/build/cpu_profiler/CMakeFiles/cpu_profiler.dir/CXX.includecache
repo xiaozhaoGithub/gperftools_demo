@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../third_lib/gperftools/include/gperftools/profiler.h
+time.h
+-
+
+/home/coder/workspace/github_code/gperftools_demo/cpu_profiler/main.cpp
+iostream
+-
+gperftools/profiler.h
+/home/coder/workspace/github_code/gperftools_demo/cpu_profiler/gperftools/profiler.h
+

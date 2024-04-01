@@ -1,0 +1,46 @@
+events: Hits
+
+fl=??
+fn=(1) NonClassFunWork
+0 106
+
+fl=??
+fn=(2) main
+cfl=??
+cfn=(1)
+calls=106 0
+0 106
+
+fl=??
+fn=(3) SimpleWorker::ToWork
+0 139
+
+fl=??
+fn=(2)
+cfl=??
+cfn=(4) ComplexWorker::ToWork
+calls=2764 0
+0 2764
+
+fl=??
+fn=(2)
+cfl=??
+cfn=(3)
+calls=139 0
+0 139
+
+fl=??
+fn=(4)
+0 2764
+
+fl=??
+fn=(5) __libc_start_main
+cfl=??
+cfn=(2)
+calls=3242 0
+0 3242
+
+fl=??
+fn=(2)
+0 233
+

@@ -1,0 +1,8 @@
+/home/coder/workspace/github_code/gperftools_demo/build/CMakeFiles/rebuild_cache.dir
+/home/coder/workspace/github_code/gperftools_demo/build/CMakeFiles/edit_cache.dir
+/home/coder/workspace/github_code/gperftools_demo/build/cpu_profiler/CMakeFiles/rebuild_cache.dir
+/home/coder/workspace/github_code/gperftools_demo/build/cpu_profiler/CMakeFiles/edit_cache.dir
+/home/coder/workspace/github_code/gperftools_demo/build/cpu_profiler/CMakeFiles/cpu_profiler.dir
+/home/coder/workspace/github_code/gperftools_demo/build/heap_checker/CMakeFiles/rebuild_cache.dir
+/home/coder/workspace/github_code/gperftools_demo/build/heap_checker/CMakeFiles/edit_cache.dir
+/home/coder/workspace/github_code/gperftools_demo/build/heap_checker/CMakeFiles/heap_checker.dir
